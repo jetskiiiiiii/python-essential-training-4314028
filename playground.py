@@ -1,3 +1,5 @@
-from math import *
+import time
 
-print(sqrt(5))
+start = time.time()
+time.sleep(0.1)
+print(time.time() - start - 0.1)
