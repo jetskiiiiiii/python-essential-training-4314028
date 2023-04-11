@@ -1,6 +1,12 @@
 ### Challenges completed:
-4. encoding strings as a list of tuples
-10. ascii art compressor
+- ascii art compression
+- ascii art encoding
+- get factorials
+- get primes fast
+- convert hex to decimal
+- limited memory message saving utility
+- message logger utility
+- service retry utility
 
 
 ### Instructor
